@@ -1,0 +1,49 @@
+# React Native
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+build/
+dist/
+*.log
+
+# React Native specific
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+android/app/src/main/assets/
+
+# iOS
+ios/build/
+ios/Pods/
+ios/*.xcworkspace
+
+# Temporary files
+*.tmp
+*~
+.#*
+
+# Backup files
+*.bak
+*.orig
